@@ -1,0 +1,10 @@
+.pdf-upload-active, .pdf-upload-inactive {
+	background: #eaeaea;
+	padding: 10px;
+	text-align: center;		
+}
+.pdf-upload-active button {
+	width: 100px;
+	height: 100px;
+	background: url(icon.svg) no-repeat center center;
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.0//EN'  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="17.672mm" height="23.866mm" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" version="1.0" viewBox="0 0 427 577" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#4D4D4D}
+    .fil0 {fill:#999999}
+    .fil2 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+   <path class="fil0" d="m17 0h290l120 132v426c0 10-8 19-17 19h-393c-9 0-17-9-17-19v-539c0-11 8-19 17-19z"/>
+   <path class="fil1" d="m427 132h-103c-9 0-17-9-17-19v-113l120 132z"/>
+  <path class="fil2" d="m89 307c3 0 6 1 8 3s3 5 3 8-1 6-3 8-5 3-8 3-6-1-8-3-4-5-4-8 2-6 4-8 5-3 8-3zm50-58v9c4-4 7-7 12-8 4-2 8-3 13-3 10 0 19 4 26 12 7 7 11 17 11 29s-4 22-11 30c-8 7-17 11-27 11-4 0-8 0-12-2s-8-4-12-8v37h-20v-107h20zm21 16c-6 0-12 2-16 6-4 5-6 10-6 17s2 13 6 17 10 6 16 6 11-2 15-6c4-5 6-10 6-17s-2-12-6-17c-4-4-9-6-15-6zm115-46h20v108h-20v-8c-4 4-8 6-11 8-4 2-9 2-13 2-10 0-19-4-26-11-8-8-12-18-12-30s4-22 11-29c7-8 16-12 26-12 5 0 10 1 14 3 4 1 8 4 11 8v-39zm-21 46c-6 0-11 2-15 6-4 5-6 10-6 17s2 12 6 17c4 4 9 6 15 6 7 0 12-2 16-6s6-10 6-17-2-12-6-17c-4-4-9-6-16-6zm51-16h7c0-10 0-16 1-18 0-5 2-8 5-11 3-2 8-3 13-3 4 0 9 1 14 2v15c-3 0-5-1-7-1s-4 1-5 2c-1 0-1 2-1 4v10h12v17h-12v61h-20v-61h-7v-17z"/>
+</svg>

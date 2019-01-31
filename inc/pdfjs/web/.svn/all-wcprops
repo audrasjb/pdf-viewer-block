@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/2021209/pdf-viewer-block/trunk/inc/pdfjs/web
+END
+debugger.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/2021209/pdf-viewer-block/trunk/inc/pdfjs/web/debugger.js
+END
+compatibility.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/2021209/pdf-viewer-block/trunk/inc/pdfjs/web/compatibility.js
+END
+viewer.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/2021209/pdf-viewer-block/trunk/inc/pdfjs/web/viewer.html
+END
+l10n.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/2021209/pdf-viewer-block/trunk/inc/pdfjs/web/l10n.js
+END
+viewer.css
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/2021209/pdf-viewer-block/trunk/inc/pdfjs/web/viewer.css
+END
+viewer.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/2021209/pdf-viewer-block/trunk/inc/pdfjs/web/viewer.js
+END
