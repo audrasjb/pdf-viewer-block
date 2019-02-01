@@ -28,16 +28,16 @@
 	function gpvb_enqueue_styles_admin() {
 		wp_enqueue_style( 
 			'gpvb-admin-styles', 
-			plugin_dir_url( __FILE__ ) . 'css/admin.css', 
+			plugin_dir_url( __FILE__ ) . 'min/style.min.css', 
 			array(), 
 			'', 
 			'all' 
 		);
 		wp_register_script(
 			'gpvb-admin-scripts',
-			plugins_url( 'js/block.js', __FILE__ ),
+			plugins_url( 'min/scripts-min.js', __FILE__ ),
 			array( 'wp-blocks', 'wp-components', 'wp-element', 'wp-i18n', 'wp-editor' ),
-			filemtime( plugin_dir_path( __FILE__ ) . 'js/block.js' ),
+			filemtime( plugin_dir_path( __FILE__ ) . 'min/scripts-min.js' ),
 			true
 		);
 		wp_enqueue_script( 'gpvb-admin-scripts' );
