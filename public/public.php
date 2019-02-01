@@ -23,14 +23,14 @@
 	function gpvb_enqueue_styles_public() {
 		wp_enqueue_style( 
 			'pdf-viewer-block-styles', 
-			plugin_dir_url( __FILE__ ) . 'css/pdf-viewer-block.css', 
+			plugin_dir_url( __FILE__ ) . 'min/style.min.css', 
 			array(), 
 			'', 
 			'all' 
 		);
 		wp_enqueue_script( 
 			'pdf-viewer-block-scripts', 
-			plugin_dir_url( __FILE__ ) . 'js/pdf-viewer-block.js', 
+			plugin_dir_url( __FILE__ ) . 'min/scripts-min.js', 
 			array( 'jquery' ), 
 			'', 
 			true 
