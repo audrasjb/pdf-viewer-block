@@ -1,0 +1,40 @@
+{
+	"name": "pdf-viewer-block/standard",
+	"title": "PDF Viewer",
+	"category": "embed",
+	"icon": "media-document",
+	"description": "A block to embed a PDF Viewer.",
+	"keywords": [ "pdf", "viewer", "reader" ],
+	"textDomain": "pdf-viewer-block",
+	"attributes": {
+		"mediaID": {
+			"type": "number"
+		},
+		"mediaURL": {
+			"type": "string",
+			"source": "attribute",
+			"selector": "a",
+			"attribute": "href"
+		},
+		"mediaWidth": {
+			"type": "string",
+			"source": "attribute",
+			"selector": "a",
+			"attribute": "data-width"
+		},
+		"mediaHeight": {
+			"type": "string",
+			"source": "attribute",
+			"selector": "a",
+			"attribute": "data-height"
+		},
+		"alignment": {
+			"type": "string",
+			"default": "left"
+		}
+	},
+	"editorScript": "admin/js/block.js",
+	"script": "public/js/pdf-viewer-block.js",
+	"editorStyle": "admin/css/admin.css",
+	"style": "public/css/pdf-viewer-block.css"
+}
